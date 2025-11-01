@@ -102,7 +102,7 @@
 &kp NUMBER_1             &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4          &kp NUMBER_5                                                    &kp NUMBER_6   &kp NUMBER_7      &kp NUMBER_8          &kp NUMBER_9           &kp NUMBER_0
 &kp EXCLAMATION          &kp DOUBLE_QUOTES  &kp HASH      &kp DOLLAR            &kp PERCENT           &kp RIGHT_BRACKET          &kp CARET      &kp AMPERSAND  &kp SINGLE_QUOTE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL
 &mt LEFT_SHIFT NUMBER_6  &trans             &trans        &kp LEFT_PARENTHESIS  &kp NON_US_BACKSLASH  &kp RIGHT_PARENTHESIS      &kp SEMICOLON  &kp MINUS      &kp GRAVE         &kp PLUS              &kp ASTERISK           &kp LEFT_BRACKET
-&trans                   &trans             &trans        &trans                &trans                &trans                     &kp ENTER      &kp BACKSPACE                                                                 &kp RIGHT_BRACKET
+&kp NUMBER_3             &kp N9             &kp NUMBER_0  &trans                &trans                &trans                     &kp ENTER      &kp BACKSPACE                                                                 &kp RIGHT_BRACKET
             >;
         };
 
