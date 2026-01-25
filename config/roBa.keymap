@@ -110,7 +110,7 @@
 &kp Q             &kp W         &kp E         &kp R      &kp T                                                     &kp Y          &kp U  &lt 5 I    &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F      &kp G        &kp JP_LBRACE                  &kp JP_EQUAL  &kp H          &kp J  &lt 5 K    &kp L    &kp MINUS
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V      &kp B        &kp JP_LPAREN                  &kp JP_COLON  &kp N          &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt 3 TAB  &lt 2 SPACE  &mt RIGHT_SHIFT JP_HANZEN      &kp ENTER     &kp BACKSPACE                             &lt_to_layer_0 6 DELETE
+&kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt 3 TAB  &lt 2 SPACE  &mt RIGHT_SHIFT JP_HANZEN      &kp ENTER     &kp BACKSPACE                             &kp DELETE
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
@@ -139,7 +139,7 @@
 &kp ESCAPE      &kp LC(LS(TAB))  &kp UP_ARROW    &kp LC(TAB)      &trans                       &trans              &trans          &kp UP_ARROW    &trans           &trans
 &trans          &kp LC(S)        &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp END  &trans      &trans  &kp LC(LEFT_ARROW)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(RIGHT_ARROW)
 &kp LEFT_SHIFT  &kp LC(X)        &kp LC(C)       &kp LC(V)        &trans   &trans      &trans  &trans              &trans          &trans          &trans           &trans
-&trans          &trans           &trans          &trans           &trans   &trans      &trans  &trans                                                               &trans
+&trans          &trans           &trans          &trans           &trans   &trans      &tog 6  &trans                                                               &trans
             >;
 
             sensor-bindings = <&inc_dec_kp LC(PAGE_UP) LC(PAGE_DOWN)>;
